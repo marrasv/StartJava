@@ -1,0 +1,7 @@
+public class VariableNamesTheme{
+    public static void main (String[] args){
+    //Block1
+    int number = 1
+    System.out.println("Цифра =", number);
+    }
+}
