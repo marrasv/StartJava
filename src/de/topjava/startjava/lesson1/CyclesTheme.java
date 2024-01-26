@@ -1,6 +1,6 @@
 package de.topjava.startjava.lesson1;
 
-import ru.topjava.startjava.lesson1.*;
+import de.topjava.startjava.lesson1.*;
 
 public class CyclesTheme{
     public static void main(String[] args) {

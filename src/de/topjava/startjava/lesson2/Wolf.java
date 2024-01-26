@@ -1,3 +1,8 @@
+package de.topjava.startjava.lesson2;
+
+import de.topjava.startjava.lesson2.*;
+
+
 public class Wolf{
 
     private boolean sex; // true = man

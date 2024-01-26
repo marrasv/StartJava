@@ -1,3 +1,7 @@
+package de.topjava.startjava.lesson2;
+
+import de.topjava.startjava.lesson2.*;
+
 public class WolfTest{
     public static void main(String[] args) {
         Wolf barsik = new Wolf();
