@@ -1,3 +1,5 @@
+package de.topjava.startjava.lesson2;
+
 import java.util.Scanner;
 import java.lang.Math;
 

@@ -1,3 +1,5 @@
+package de.topjava.startjava.lesson2;
+
 //GuessTheNumber.java
 public class GuessTheNumber{
     public static void main(String[] args){

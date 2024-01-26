@@ -1,3 +1,5 @@
+package de.topjava.startjava.lesson1;
+
 public class VariableNamesTheme{
     public static void main (String[] args){
     byte numBlock = 1;

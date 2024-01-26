@@ -1,3 +1,5 @@
+package de.topjava.startjava.lesson2;
+
 public class Calculator{
 
     private int a;

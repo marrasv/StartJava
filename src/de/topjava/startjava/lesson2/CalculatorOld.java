@@ -1,3 +1,5 @@
+package de.topjava.startjava.lesson2;
+
 public class CalculatorOld{
     public static void main(String[] args){
         int a = 2;

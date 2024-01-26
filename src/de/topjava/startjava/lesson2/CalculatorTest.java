@@ -1,4 +1,4 @@
-package ru.topjava.startjava.lesson2;
+package de.topjava.startjava.lesson2;
 
 import java.util.Scanner;
 
