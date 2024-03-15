@@ -58,7 +58,6 @@ public class ArraysTheme {
         for(int i = 1; i < array.length; i++){
             array[i] = (char)((int)(array[i-1]) + 1);
         }
-        //System.out.println(Arrays.toString(array));
         for (int i = 1; i <= array.length;i++){
             for (int j = 0; j < i; j++){
                 System.out.print(array[array.length-1 - j]);
